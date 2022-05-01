@@ -1,6 +1,6 @@
 # Comandos twitch canal #frangal
 
-!programación   Programación: 09:38 El puente sobre el río Kwai | 12:18 Tiburon II | 14:09 La pantera rosa
+!programación   Programación: 09:38 El puente sobre el río Kwai - 12:18 Tiburon II - 14:09 La pantera rosa
 
 !accountage 	El ${user} ha sido creado a hace 1 año, 5 meses, 27 días y 1 hora.
 
@@ -10,8 +10,8 @@
 
 !spoiler 	🔔Los SPOILERS estan totalmente PROHIBIDOS
 
-!tip 	Puedes dar una donación a $(channel) mediante este enlace https://StreamElements.com/${channel.alias}/tip
+!tip 	Puedes dar una donación a #frangal mediante este enlace https://StreamElements.com/frangal/tip
 
 !uptime 	${channel} ha estado transmitiendo durante 2 horas y 20 minutos
 
-!watchtime 	${user} ha pasado ${user.time_online|'0 seconds'} mirando el ${channel}
+!watchtime 	${user} ha pasado ${user.time_online'0 seconds'} mirando el ${channel}
