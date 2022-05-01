@@ -1,4 +1,4 @@
-# Comandos twitch canal #frangal
+!ahora     Estamos viendo: El puente sobre el río Kwai - Director: David Lean
 
 !programación   Programación: 09:38 El puente sobre el río Kwai - 12:18 Tiburon II - 14:09 La pantera rosa
 
