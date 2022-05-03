@@ -8,8 +8,10 @@
 
 **!host** 	🎬 Ayudanos a que el canal tenga mayor difusión,para hacer "HOST" ...
 
-**!spoiler** 	🔔 Los SPOILERS y las 🍐🍐 estan totalmente PROHIBIDOS
+**!spoiler** 	🔔 Los SPOILERS y las 🍐🍐 estan totalmente PROHIBID@S
 
 **!tip** 	Puedes dar una donación a #frangal mediante este enlace https://streamelements.com/frangal/tip
 
 **!uptime** 	FrangaL ha estado transmitiendo durante 8 horas y 20 minutos
+
+**!sysinfo** 	 OS: Ubuntu "jammy" 22.04 • CPU: Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz (2,30GHz) ...
